@@ -1,0 +1,10 @@
+opengl32.lib
+freeglut.lib
+glew32.lib
+gltools.lib
+Half.lib
+Iex.lib
+IlmImf.lib
+IlmThread.lib
+Imath.lib
+zlib.lib
